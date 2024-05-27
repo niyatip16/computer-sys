@@ -1,0 +1,5 @@
+function aFunction 1
+
+push constant 1
+
+call aFunction 1

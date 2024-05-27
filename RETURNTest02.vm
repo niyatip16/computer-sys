@@ -1,0 +1,4 @@
+function anotherFunction 1
+
+push constant 0
+return

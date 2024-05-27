@@ -1,0 +1,6 @@
+function anotherFunction 2
+
+push constant 1
+push constant 2
+
+call anotherFunction 2

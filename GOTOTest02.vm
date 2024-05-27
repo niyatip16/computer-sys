@@ -1,0 +1,2 @@
+goto LABEL_ONE
+goto LABEL_TWO

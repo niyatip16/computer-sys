@@ -1,0 +1,2 @@
+if-goto LABEL_ONE
+if-goto LABEL_TWO
